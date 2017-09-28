@@ -1,0 +1,21 @@
+C:\Users\Echo\OneDrive\Hakan Csharp\20170814-3Win_AtYarisi_PictureBox\20170814-3Win_AtYarisi_PictureBox\bin\Debug\20170814-3Win_AtYarisi_PictureBox.exe.config
+C:\Users\Echo\OneDrive\Hakan Csharp\20170814-3Win_AtYarisi_PictureBox\20170814-3Win_AtYarisi_PictureBox\bin\Debug\20170814-3Win_AtYarisi_PictureBox.exe
+C:\Users\Echo\OneDrive\Hakan Csharp\20170814-3Win_AtYarisi_PictureBox\20170814-3Win_AtYarisi_PictureBox\bin\Debug\20170814-3Win_AtYarisi_PictureBox.pdb
+C:\Users\Echo\OneDrive\Hakan Csharp\20170814-3Win_AtYarisi_PictureBox\20170814-3Win_AtYarisi_PictureBox\obj\Debug\20170814-3Win_AtYarisi_PictureBox.csprojResolveAssemblyReference.cache
+C:\Users\Echo\OneDrive\Hakan Csharp\20170814-3Win_AtYarisi_PictureBox\20170814-3Win_AtYarisi_PictureBox\obj\Debug\_20170814_3Win_AtYarisi_PictureBox.Form1.resources
+C:\Users\Echo\OneDrive\Hakan Csharp\20170814-3Win_AtYarisi_PictureBox\20170814-3Win_AtYarisi_PictureBox\obj\Debug\_20170814_3Win_AtYarisi_PictureBox.Properties.Resources.resources
+C:\Users\Echo\OneDrive\Hakan Csharp\20170814-3Win_AtYarisi_PictureBox\20170814-3Win_AtYarisi_PictureBox\obj\Debug\20170814-3Win_AtYarisi_PictureBox.csproj.GenerateResource.Cache
+C:\Users\Echo\OneDrive\Hakan Csharp\20170814-3Win_AtYarisi_PictureBox\20170814-3Win_AtYarisi_PictureBox\obj\Debug\20170814-3Win_AtYarisi_PictureBox.exe
+C:\Users\Echo\OneDrive\Hakan Csharp\20170814-3Win_AtYarisi_PictureBox\20170814-3Win_AtYarisi_PictureBox\obj\Debug\20170814-3Win_AtYarisi_PictureBox.pdb
+C:\Users\Echo\OneDrive\Hakan Csharp\20170814-3Win_AtYarisi_PictureBox\20170814-3Win_AtYarisi_PictureBox\obj\Debug\_20170814_3Win_AtYarisi_PictureBox.Hakkimizda.resources
+C:\Users\Echo\OneDrive\Hakan Csharp\1- İNTRODUCTİON\20170814-3Win_AtYarisi_PictureBox\20170814-3Win_AtYarisi_PictureBox\bin\Debug\20170814-3Win_AtYarisi_PictureBox.exe.config
+C:\Users\Echo\OneDrive\Hakan Csharp\1- İNTRODUCTİON\20170814-3Win_AtYarisi_PictureBox\20170814-3Win_AtYarisi_PictureBox\bin\Debug\20170814-3Win_AtYarisi_PictureBox.exe
+C:\Users\Echo\OneDrive\Hakan Csharp\1- İNTRODUCTİON\20170814-3Win_AtYarisi_PictureBox\20170814-3Win_AtYarisi_PictureBox\bin\Debug\20170814-3Win_AtYarisi_PictureBox.pdb
+C:\Users\Echo\OneDrive\Hakan Csharp\1- İNTRODUCTİON\20170814-3Win_AtYarisi_PictureBox\20170814-3Win_AtYarisi_PictureBox\obj\Debug\20170814-3Win_AtYarisi_PictureBox.csprojResolveAssemblyReference.cache
+C:\Users\Echo\OneDrive\Hakan Csharp\1- İNTRODUCTİON\20170814-3Win_AtYarisi_PictureBox\20170814-3Win_AtYarisi_PictureBox\obj\Debug\_20170814_3Win_AtYarisi_PictureBox.Form1.resources
+C:\Users\Echo\OneDrive\Hakan Csharp\1- İNTRODUCTİON\20170814-3Win_AtYarisi_PictureBox\20170814-3Win_AtYarisi_PictureBox\obj\Debug\_20170814_3Win_AtYarisi_PictureBox.Hakkimizda.resources
+C:\Users\Echo\OneDrive\Hakan Csharp\1- İNTRODUCTİON\20170814-3Win_AtYarisi_PictureBox\20170814-3Win_AtYarisi_PictureBox\obj\Debug\_20170814_3Win_AtYarisi_PictureBox.Properties.Resources.resources
+C:\Users\Echo\OneDrive\Hakan Csharp\1- İNTRODUCTİON\20170814-3Win_AtYarisi_PictureBox\20170814-3Win_AtYarisi_PictureBox\obj\Debug\20170814-3Win_AtYarisi_PictureBox.csproj.GenerateResource.Cache
+C:\Users\Echo\OneDrive\Hakan Csharp\1- İNTRODUCTİON\20170814-3Win_AtYarisi_PictureBox\20170814-3Win_AtYarisi_PictureBox\obj\Debug\20170814-3Win_AtYarisi_PictureBox.csproj.CoreCompileInputs.cache
+C:\Users\Echo\OneDrive\Hakan Csharp\1- İNTRODUCTİON\20170814-3Win_AtYarisi_PictureBox\20170814-3Win_AtYarisi_PictureBox\obj\Debug\20170814-3Win_AtYarisi_PictureBox.exe
+C:\Users\Echo\OneDrive\Hakan Csharp\1- İNTRODUCTİON\20170814-3Win_AtYarisi_PictureBox\20170814-3Win_AtYarisi_PictureBox\obj\Debug\20170814-3Win_AtYarisi_PictureBox.pdb
